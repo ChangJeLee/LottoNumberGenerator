@@ -1,0 +1,6 @@
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.exe
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\bin\Debug\LottoNumberGenerator.pdb
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\obj\x86\Debug\LottoNumberGenerator.exe
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\obj\x86\Debug\LottoNumberGenerator.pdb
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\obj\x86\Debug\LottoNumberGenerator.csprojAssemblyReference.cache
+E:\VS2010\10\LottoNumberGenerator\LottoNumberGenerator\obj\x86\Debug\LottoNumberGenerator.csproj.CoreCompileInputs.cache
